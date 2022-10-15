@@ -1,3 +1,6 @@
 this is a practice. insert
 this is second practice.
 #include <stdio.h>
+for command git tutorial
+partice.txt file is eddited.
+end
