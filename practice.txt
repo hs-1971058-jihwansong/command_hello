@@ -4,3 +4,5 @@ this is second practice.
 for command git tutorial
 partice.txt file is eddited.
 end
+
+Git pull last practice
