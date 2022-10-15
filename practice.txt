@@ -1,2 +1,4 @@
 this is a practice. insert
- 
+
+for command git tutorial
+partice.txt file is eddited.
